@@ -132,3 +132,21 @@ Step by Step framework creation starting from Linear scripting to POM based Test
       - JSMoveClick
       - JSSetText
   </details>
+
+###
+ <details>   
+  <summary> Element Properties </summary>
+  
+    ▪ Displayed
+    ▪ Enabled
+    ▪ Checked
+    ▪ Selected
+    ▪ Get Text
+    ▪ Width
+    ▪ Height
+    ▪ Size
+    ▪ XLocation
+    ▪ YLocation
+    ▪ Position
+    ▪ Child Elements
+ </details>
