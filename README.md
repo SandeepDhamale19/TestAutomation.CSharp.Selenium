@@ -184,3 +184,88 @@ Step by Step framework creation starting from Linear scripting to POM based Test
       - Wait for URL to be 
       - Wait for Element AngularComponent
  </details>	
+
+  ###
+ <details>   
+  <summary> Exceptions </summary>
+  
+    ▪ InBuilt Exceptions
+      - NoSuchElementException
+      - NoSuchWindowException
+      - NoSuchFrameException
+      - NoAlertPresentException
+      - InvalidSelectorException
+      - ElementNotVisibleException
+      - ElementNotSelectableException
+      - TimeoutException
+      - NoSuchSessionException
+      - StaleElementReferenceException
+    ▪ Custom Exceptions
+      - Browser Exceptions
+      - Navigation Exceptions
+      - DataNotFound Exceptions
+      - Configuration Exceptions
+ </details> 
+
+  ###
+ <details>   
+  <summary> Utilities </summary>
+  
+    ▪ DateTime Utilities
+    ▪ String utilities [Dynamic Test Data Generation]
+    ▪ Number/ Range utilities [Dynamic Test Data Generation]
+    ▪ File Operations utilities
+    ▪ Screenshots
+    ▪ Json Utilities
+ </details>
+ 
+  ###
+ <details>   
+  <summary> Browsers </summary>
+  
+    ▪ Chrome
+    ▪ Chrome Incognito
+    ▪ Chrome Headless
+    ▪ IE
+    ▪ Edge
+    ▪ Edge Chromium
+    ▪ Firefox
+ </details>
+ 
+  ###
+ <details>   
+  <summary> Auto IT </summary>
+  
+    ▪ File Upload
+    ▪ Windows Dialogboxes
+ </details>
+ 
+  ###
+ <details>   
+  <summary> Reporting </summary>
+  
+    ▪ HTML Reporting
+      - Summary
+        - Pie Chart Execution Summary
+	  - Tabular Execution Summary
+	  - Suite Level Summary
+	  - Scenario Level Summary [BDD format]
+	  - Step Level details
+	  - Element and Test Data logs [Sub step details]
+	  - Browser
+	  - Environments	 
+	  - Screenshots	 
+      - Dashboard
+        - Browser Level Summary
+	  - Scenario Metrics
+	  - Step Metrics
+	  - Scenario / Step Timestamps
+      - Filters
+        - Search/ Filter Tests by Name
+	  - Search/ Filter Tests by Status
+   
+    ▪ Power BI reporting
+ </details>
+ 
+    ▪ BrowserStack
+    ▪ Assertions
