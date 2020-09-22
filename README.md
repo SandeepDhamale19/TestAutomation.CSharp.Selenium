@@ -38,12 +38,13 @@ Step by Step framework creation starting from Linear scripting to POM based Test
    
        ▪ FindElement
        ▪ FindElements
-   <details>
-     <summary> ▪ Alerts  </summary>
- 
-       ▪ Accept
-       ▪ Close/ Dismiss
-       ▪ Get Alert Text
-       ▪ Set Alert Text
-   </details>
+       
+    <details>
+      <summary> ▪ Alerts  </summary>
+
+        ▪ Accept
+        ▪ Close/ Dismiss
+        ▪ Get Alert Text
+        ▪ Set Alert Text
+    </details>
  </details>
