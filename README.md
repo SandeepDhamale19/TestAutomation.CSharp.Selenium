@@ -44,3 +44,21 @@ Step by Step framework creation starting from Linear scripting to POM based Test
       - Get Alert Text
       - Set Alert Text
  </details>
+ 
+  ###
+ <details>   
+  <summary> Actions </summary>
+   
+       ▪ Attributes
+         - Get Attribute Values
+         - Get CSS property Values
+         - Visible
+         - Displayed
+         - Exist/ Not Exist
+         - Disabled
+         - Text/ Text Contains
+         - Attribute Exists
+         - Get All Attributes
+         - Element Co-ordinates
+         - Set Attribute Value
+  </details>
