@@ -267,5 +267,12 @@ Step by Step framework creation starting from Linear scripting to POM based Test
     ▪ Power BI reporting
  </details>
  
-    ▪ BrowserStack
-    ▪ Assertions
+  ###
+ <details>   
+  <summary> BrowserStack </summary>
+ </details> 
+ 
+  ###
+ <details>   
+  <summary> Assertions
+</details>
