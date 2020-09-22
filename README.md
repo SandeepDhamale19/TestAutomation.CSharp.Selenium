@@ -150,3 +150,37 @@ Step by Step framework creation starting from Linear scripting to POM based Test
     ▪ Position
     ▪ Child Elements
  </details>
+
+ ###
+ <details>   
+  <summary> Locators </summary>
+  
+    ▪ Id
+    ▪ Name
+    ▪ XPath
+    ▪ LinkText
+    ▪ Css Selector
+    ▪ Class Name
+    ▪ Tag Name
+  </details>
+ 
+ ###
+ <details>   
+  <summary> Synchronization </summary>
+  
+    ▪ Implicit Wait
+    ▪ Explicit Waits
+      - Wait for Page to load
+      - Wait for loading notification [spinners]
+      - Wait for Staleness of Element
+      - Wait for Text to be
+      - Wait for Attribute Value to be
+      - Wait for Element Selectable
+      - Wait for Element Clickable
+      - Wait for Element Exist
+      - Wait for Element Displayed
+      - Wait for Element Visible
+      - Wait for Element Invisible
+      - Wait for URL to be 
+      - Wait for Element AngularComponent
+ </details>	
