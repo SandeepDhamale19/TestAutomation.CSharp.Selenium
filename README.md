@@ -39,8 +39,8 @@ Step by Step framework creation starting from Linear scripting to POM based Test
     ▪ FindElement
     ▪ FindElements
     ▪ Alerts        
-      * Accept
-      * Close/ Dismiss
-      * Get Alert Text
-      * Set Alert Text
+      - Accept
+      - Close/ Dismiss
+      - Get Alert Text
+      - Set Alert Text
  </details>
