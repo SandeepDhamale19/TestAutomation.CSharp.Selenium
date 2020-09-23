@@ -262,7 +262,7 @@ Step by Step framework creation starting from Linear scripting to POM based Test
 	  - Scenario / Step Timestamps
       - Filters
         - Search/ Filter Tests by Name
-	  - Search/ Filter Tests by Status
+	- Search/ Filter Tests by Status
    
     ▪ Power BI reporting
  </details>
