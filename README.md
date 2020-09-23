@@ -13,7 +13,7 @@ Step by Step framework creation starting from Linear scripting to POM based Test
        ▪ Checkbox
        ▪ DatePicker
        ▪ Dynamic Elements
-       ▪ File upload/ downlod
+       ▪ File upload/ download
        ▪ Frames
        ▪ Labels
        ▪ Links
