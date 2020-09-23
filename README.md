@@ -67,7 +67,7 @@ Step by Step framework creation starting from Linear scripting to POM based Test
       - Close/ Quit
     ▪ Click
       - Click
-      - ClickAll [All elements with same parent ant type]
+      - ClickAll [All elements with same parent and type]
     ▪ Frames
       - SwitchToFrame [By Index/ Name/ Locator]
       - SwitchToParentFrame
